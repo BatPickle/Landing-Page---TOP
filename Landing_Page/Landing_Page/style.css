@@ -1,0 +1,46 @@
+#box1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    background-color: #1F2937;
+    color: #ffff;
+    padding: 24px;
+}
+
+#topNav li {
+    color: #ffff;
+    display: inline;
+}
+
+#topNav li a {
+    color: #ffff;
+    display: inline;
+    float: right;
+}
+
+#firstSectionInner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#left1 {
+    border: 2px solid white;
+    width: 20%;
+}
+
+#left1 button{
+    border: none;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #ffff;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 1.2em;
+}
+
+#right1 {
+    border: 2px solid white;
+    width: 20%;
+}
